@@ -317,38 +317,38 @@
         align-items: center;
         position: relative;
         height:285vh;
-        width: 136%;
+        width: 145%;
         left: -173px;
     }
     .make1
     {
        position: absolute;
-       bottom: 365px;
-       width: 425px;
+       bottom: 620px;
+       width: 358px;
        height: 110px;
-       left: -15px;
+       left: 5px;
     }
     .make2
     {
         position: absolute;
-        top: -465px;
-        left: 20px;
-        width: 355px;
+        top: -716px;
+        left: 25px;
+        width: 322px;
     }
     .make3
     {
         position: absolute;
-        bottom: 565px;
-        left: 50px;
-        width: 300px;
+        bottom: 816px;
+        left: 40px;
+        width: 289px;
     }
     .make4
     {
         position: absolute;
-        bottom: 545px;
-        width: 425px;
+        bottom: 809px;
+        width: 354px;
         height: 110px;
-        right: 20px;
+        right: 3px;
     }
     .leftgrid
     {
@@ -359,7 +359,7 @@
     {
         position: absolute;
         bottom: 615px;
-        right: 60px;
+        right: 20px;
     }
     .box1 img 
     {
@@ -370,15 +370,15 @@
     {
         position: absolute;
         top: -300px;
-        width: 425px;
-        left: 35px;
+        width: 356px;
+        left: 55px;
     }
     .box3
     {
         position: absolute;
-        top: 445px;
-        width: 425px;
-        left: 35px;
+        top: 460px;
+        width: 363px;
+        left: 51px;
         height: 110px;
         display: flex;
         justify-content: center;
@@ -387,22 +387,22 @@
     .make5
     {
         position: relative;
-        bottom: 110px;
-        width: 425px;
-        right: 15px;
+        bottom: 353px;
+        width: 363px;
+        right: 0px;
     }
     .make5 img 
     {
-        width: 425px;
+        width: 360px;
         height: 300px;
     }
 
     .box5
     {
         position: absolute;
-        top: 570px;
-        width: 430px;
-        left: -135px;
+        top: 580px;
+        width: 366px;
+        left: -98px;
         height: 200px;
         line-height: 45px;
         font-size: 30px;
@@ -410,13 +410,13 @@
     .box4
     {
         position: absolute;
-        top: 785px;
+        top: 795px;
         width: 320px;
         height: 90px;
         display: flex;
         justify-content: center;
         align-items: center;
-        left: 90px;
+        left: 70px;
     }
 
     
